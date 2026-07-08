@@ -80,7 +80,7 @@ export default function App() {
         {!isPlaying && !isGameOver && (
           <div className="absolute inset-0 bg-pink-100/80 flex flex-col items-center justify-center rounded-lg backdrop-blur-sm z-20">
             <h1 className="text-4xl md:text-5xl font-bold text-pink-600 mb-2 text-center drop-shadow-md" style={{ fontFamily: '"Press Start 2P", cursive' }}>
-              С ТРЕМЯ МЕСЯЦАМИ ВМЕСЕТ АЛИН❤️е
+              С ТРЕМЯ МЕСЯЦАМИ ВМЕСЕ С ТОБООЙ❤️
             </h1>
             <p className="text-gray-600 mb-8 text-center max-w-md px-4">
               Беги вместе со мной! Не дай левым с дв все испортить.
